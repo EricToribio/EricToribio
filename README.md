@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHSM7QLqEyBtw/profile-displaybackgroundimage-shrink_350_1400/0/1636316961895?e=1652918400&v=beta&t=si59sUHvq0t5e3xTU9g69v_Or4x78b_NwXGCtTwl8HQ"/>
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHSM7QLqEyBtw/profile-displaybackgroundimage-shrink_350_1400/0/1636316961895?e=1652918400&v=beta&t=si59sUHvq0t5e3xTU9g69v_Or4x78b_NwXGCtTwl8HQ"/> -->
 
 # <p align="center"><img src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif" width="50"> I'm Eric Toribio, a Florida-based full-stack web developer 👾
 
@@ -17,8 +17,8 @@
   </p> -->
 
 ```Golang
-  var EricToribio = map[string][]interface{}{
-    "about": {
+  var EricToribio = map[string]map[string]string{
+    "about": 
         "full stack web developer",
         "fixer of broken code",
         "father of 4",
