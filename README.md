@@ -1,9 +1,9 @@
 <!-- Header -->
-<<<<<<< HEAD
+
 <!-- <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHSM7QLqEyBtw/profile-displaybackgroundimage-shrink_350_1400/0/1636316961895?e=1652918400&v=beta&t=si59sUHvq0t5e3xTU9g69v_Or4x78b_NwXGCtTwl8HQ"/> -->
-=======
+
 <!--<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHSM7QLqEyBtw/profile-displaybackgroundimage-shrink_350_1400/0/1636316961895?e=1652918400&v=beta&t=si59sUHvq0t5e3xTU9g69v_Or4x78b_NwXGCtTwl8HQ"/>-->
->>>>>>> abc8aa834f3ad20998daaa0a309d5ad1b3a746f9
+
 
 # <p align="center"><img src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif" width="50"> I'm Eric Toribio, a Florida-based full-stack web developer 👾
 
@@ -22,7 +22,7 @@
 
 ```Golang
   var EricToribio = map[string]map[string]string{
-    "about": 
+    "about": {
         "full stack web developer",
         "fixer of broken code",
         "father of 4",
@@ -63,8 +63,9 @@
         `"frontEnd": "React"`,
         `"backEnd": "Java Spring Boot"`,
         `"database": "MySQL"`,
-    },
-}
+    }
+    }
+
 ```
 
 <hr/>
@@ -86,6 +87,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=yellow">&nbsp;
     <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white">&nbsp;
   </p>
   
   <!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -98,7 +100,11 @@
 ### <strong><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="30"/> &nbsp;&nbsp;Frameworks / Libraries / Other</strong>
 <br>
   
-  <p align="center">
+  <p align="center">  <img src="https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-React Router-red?style=flat&logo=react-router&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Socket.io-black?style=flat&logo=socket.io&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/-Next.JS-black?style=flat&logo=next.js&logoColor=white">&nbsp;
+  <img src="	https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=flask&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white">&nbsp;
