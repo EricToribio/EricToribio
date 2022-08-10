@@ -11,10 +11,10 @@
   <a href="https://www.linkedin.com/in/erictoribio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
- <p align="center">
+ <!-- <p align="center">
    <img src="https://badges.pufler.dev/repos/erictoribio"/>
    <img src="https://badges.pufler.dev/commits/monthly/erictoribio" />
-  </p>
+  </p> -->
 
 ```Golang
   var EricToribio = map[string][]interface{}{
@@ -22,21 +22,21 @@
         "full stack web developer",
         "fixer of broken code",
         "father of 4",
-        "fast lerner",
+        "fast learner",
     },
     "curentFocus" : {
-        "Learn Golang and C++",
+        "Learn C++",
     }
     "languages": {
-        "Golang", "Python", "Java", "JavaScript", "HTML", "CSS",
+        "Golang", "Python", "Java", "JavaScript","TypeScript", "HTML", "CSS",
     },
     "frameworks": {
-        "Flask", "SpringBoot", "NodeJS", "Gorm",
+        "Flask", "SpringBoot", "NodeJS", "Next.JS"
     },
     "libraries": {
         "React", "Jinja", "apache", "Bcrypt", "JWT", "OAuth2",
         "express", "mongoose", "bootstrap", "reactstrap", "JQuery",
-        "Ajax", "MUI",
+        "Ajax", "MUI","Cookies","Gorm"
     },
     "datbases": {
         "MySQL", "MongoDB",
